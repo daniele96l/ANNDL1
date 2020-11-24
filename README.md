@@ -1,5 +1,7 @@
 # Face-Recognition
 
+Dataset: https://drive.google.com/file/d/18OqVM14td3Uvq-dXTE8Lpk9StL6lK_x1/view?usp=sharing
+
 Task: classify images according to
 All the people in the image are wearing a mask
 No person in the image is wearing a mask
